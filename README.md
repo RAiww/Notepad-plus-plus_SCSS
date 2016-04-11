@@ -4,7 +4,7 @@ SCSS 螢光筆 - Notepad++
 
 > 文件： SCSS 螢光筆 Notepad-plus-plus_SCSS<br />
 > 作者： RAiww <ra@iww.twbbs.org> (http://ra.iww.twbbs.org/)<br />
-> 版本： v1.0.0<br />
+> 版本： v1.3.3<br />
 > 授權： MIT @license: [ra.iww.twbbs.org/ffish/MIT_License](http://ra.iww.twbbs.org/ffish/MIT_License)
 
 
